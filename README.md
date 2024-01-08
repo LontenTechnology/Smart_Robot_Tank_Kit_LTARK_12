@@ -1,4 +1,4 @@
-# Smart_Robot_Tank_Kit_LTARK_12## Smart_Robot_Tank_Kit_LTARK_12
+## Smart_Robot_Tank_Kit_LTARK_12
 
 
 If you are interested in source code and have the ability to develop it, you can refer to this URL:  
