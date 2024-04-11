@@ -5,7 +5,7 @@ If you are interested in source code and have the ability to develop it, you can
 
 https://github.com/LontenTechnology/Smart_Robot_Tank_Kit_LTARK_12
 
-<img src='DSC_0819.png' width='100%'/>
+<img src='DSC_0106.jpg' width='100%'/>
 
 ### Download
 
